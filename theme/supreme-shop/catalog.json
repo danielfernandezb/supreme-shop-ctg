@@ -1,0 +1,496 @@
+[
+  {
+    "sku": "100001",
+    "name": "nike moto 2k  platiado y rosado",
+    "brand": "Nike",
+    "category": "Nike",
+    "size": 38,
+    "quantity": 1,
+    "price": 160000,
+    "photoFiles": [
+      "nike moto 2k  platiado y rosado 1.jpeg",
+      "nike moto 2k  platiado y rosado 2.jpeg",
+      "nike moto 2k  platiado y rosado.jpeg"
+    ],
+    "images": [
+      "100001-gris-01.jpg",
+      "100001-gris-02.jpg",
+      "100001-gris-03.jpg"
+    ]
+  },
+  {
+    "sku": "100002",
+    "name": "Adidas hiperboots negro y blanco",
+    "brand": "Adidas",
+    "category": "Adidas",
+    "size": 41.5,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "Adidas hiperboots negro y blanco 1.jpeg",
+      "Adidas hiperboots negro y blanco 2.jpeg",
+      "Adidas hiperboots negro y blanco.jpeg"
+    ],
+    "images": [
+      "100002-gris-01.jpg",
+      "100002-gris-02.jpg",
+      "100002-gris-03.jpg"
+    ]
+  },
+  {
+    "sku": "100003",
+    "name": "nike SB negros y blanco",
+    "brand": "Nike",
+    "category": "Nike",
+    "size": 41,
+    "quantity": 1,
+    "price": 170000,
+    "photoFiles": [
+      "nike SB negros 1.jpeg",
+      "nike SB negros 2.jpeg",
+      "nike SB negros.jpeg"
+    ],
+    "images": [
+      "100003-gris-01.jpg",
+      "100003-gris-02.jpg",
+      "100003-gris-03.jpg"
+    ]
+  },
+  {
+    "sku": "100004",
+    "name": "nike vomero crema y blanco",
+    "brand": "Nike",
+    "category": "Nike",
+    "size": 40,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "nike vomero crema y blanco 1.jpeg",
+      "nike vomero crema y blanco 2.jpeg",
+      "nike vomero crema y blanco.jpeg"
+    ],
+    "images": [
+      "100004-nov16-01.jpg",
+      "100004-nov16-02.jpg",
+      "100004-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100005",
+    "name": "nike vomero verdes y blanco",
+    "brand": "Nike",
+    "category": "Nike",
+    "size": 39,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "nike vomero verdes y blanco 1.jpeg",
+      "nike vomero verdes y blanco 2.jpeg",
+      "nike vomero verdes y blanco.jpeg"
+    ],
+    "images": [
+      "100005-gris-03.jpg",
+      "100005-gris-01.jpg",
+      "100005-gris-02.jpg"
+    ]
+  },
+  {
+    "sku": "100006",
+    "name": "Nike JA twevel gris y blanco",
+    "brand": "Nike",
+    "category": "Nike",
+    "size": 41,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "Nike JA gris y blanco 1.jpeg",
+      "Nike JA gris y blanco 2.jpeg",
+      "Nike JA gris y blanco.jpeg"
+    ],
+    "images": [
+      "100006-gris-01.jpg",
+      "100006-gris-02.jpg",
+      "100006-gris-03.jpg"
+    ]
+  },
+  {
+    "sku": "100007",
+    "name": "puma softfoam + rosado y blanco",
+    "brand": "Puma",
+    "category": "Puma",
+    "size": 37,
+    "quantity": 1,
+    "price": 180000,
+    "photoFiles": [
+      "puma softfoam + rosado y blanco 1.jpeg",
+      "puma softfoam + rosado y blanco 2.jpeg",
+      "puma softfoam + rosado y blanco.jpeg"
+    ],
+    "images": [
+      "100007-gris-03.jpg",
+      "100007-gris-01.jpg",
+      "100007-gris-02.jpg"
+    ]
+  },
+  {
+    "sku": "100008",
+    "name": "puma softfoam + marron y negro",
+    "brand": "Puma",
+    "category": "Puma",
+    "size": 41,
+    "quantity": 1,
+    "price": 180000,
+    "photoFiles": [
+      "puma softfoam + marron y negro 1.jpeg",
+      "puma softfoam + marron y negro 2.jpeg",
+      "puma softfoam + marron y negro.jpeg"
+    ],
+    "images": [
+      "100008-gris-03.jpg",
+      "100008-gris-01.jpg",
+      "100008-gris-02.jpg"
+    ]
+  },
+  {
+    "sku": "100009",
+    "name": "new balance fuelcell verde neon",
+    "brand": "New Balance",
+    "category": "New Balance",
+    "size": 41,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "new balance fuelcell verde neon 1.jpeg",
+      "new balance fuelcell verde neon 2.jpeg",
+      "new balance fuelcell verde neon.jpeg"
+    ],
+    "images": [
+      "100009-gris-01.jpg",
+      "100009-gris-02.jpg",
+      "100009-gris-03.jpg"
+    ]
+  },
+  {
+    "sku": "100010",
+    "name": "nike reactx negro y blanco",
+    "brand": "Nike",
+    "category": "Nike",
+    "size": 41,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "nike reactx negro y blanco 1.jpeg",
+      "nike reactx negro y blanco 2.jpeg",
+      "nike reactx negro y blanco.jpeg"
+    ],
+    "images": [
+      "100010-gris-01.jpg",
+      "100010-gris-02.jpg",
+      "100010-gris-03.jpg"
+    ]
+  },
+  {
+    "sku": "100011",
+    "name": "mizuno halo mix negro y gris",
+    "brand": "Mizuno",
+    "category": "Mizuno",
+    "size": 41,
+    "quantity": 1,
+    "price": 180000,
+    "photoFiles": [
+      "mizuno halo mix negro y blanco 1.jpeg",
+      "mizuno halo mix negro y blanco 2.jpeg",
+      "mizuno halo mix negro y blanco.jpeg"
+    ],
+    "images": [
+      "100011-gris-03.jpg",
+      "100011-gris-01.jpg",
+      "100011-gris-02.jpg"
+    ]
+  },
+  {
+    "sku": "100012",
+    "name": "adidas tejido crema y café",
+    "brand": "Adidas",
+    "category": "Adidas",
+    "size": 38,
+    "quantity": 1,
+    "price": 180000,
+    "photoFiles": [
+      "adidas tejido crema y café 1.jpeg",
+      "adidas tejido crema y café 2.jpeg",
+      "adidas tejido crema y café.jpeg"
+    ],
+    "images": [
+      "100012-gris-01.jpg",
+      "100012-gris-02.jpg",
+      "100012-gris-03.jpg"
+    ]
+  },
+  {
+    "sku": "100013",
+    "name": "nike air max negro y gris",
+    "brand": "Nike",
+    "category": "Nike",
+    "size": 40,
+    "quantity": 1,
+    "price": 180000,
+    "photoFiles": [
+      "nike air max negro y blanco 1.jpeg",
+      "nike air max negro y blanco 2.jpeg",
+      "nike air max negro y blanco.jpeg"
+    ],
+    "images": [
+      "100013-gris-01.jpg",
+      "100013-gris-02.jpg",
+      "100013-gris-03.jpg"
+    ]
+  },
+  {
+    "sku": "100015",
+    "name": "asics ff turbo azul y negro",
+    "brand": "Asics",
+    "category": "Asics",
+    "size": 41.5,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "asics ff turbo azul y negro 1.jpeg",
+      "asics ff turbo azul y negro 2.jpeg",
+      "asics ff turbo azul y negro.jpeg"
+    ],
+    "images": [
+      "100015-nov16-01.jpg",
+      "100015-nov16-02.jpg",
+      "100015-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100016",
+    "name": "skechers gorun negro",
+    "brand": "Skechers",
+    "category": "Skechers",
+    "size": 42,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "skechers gorun negro 1.jpeg",
+      "skechers gorun negro 2.jpeg",
+      "skechers gorun negro.jpeg"
+    ],
+    "images": [
+      "100016-nov16-01.jpg",
+      "100016-nov16-02.jpg",
+      "100016-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100017",
+    "name": "asics ff turbo verde",
+    "brand": "Asics",
+    "category": "Asics",
+    "size": 42,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "asics ff turbo verde 1.jpeg",
+      "asics ff turbo verde 2.jpeg",
+      "asics ff turbo verde.jpeg"
+    ],
+    "images": [
+      "100017-nov16-01.jpg",
+      "100017-nov16-02.jpg",
+      "100017-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100018",
+    "name": "nike vomero blanco y gris",
+    "brand": "Nike",
+    "category": "Nike",
+    "size": 41,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "nike vomero gris y blanco 1.jpeg",
+      "nike vomero gris y blanco 2.jpeg",
+      "nike vomero gris y blanco.jpeg"
+    ],
+    "images": [
+      "100018-gris-01.jpg",
+      "100018-gris-02.jpg",
+      "100018-gris-03.jpg"
+    ]
+  },
+  {
+    "sku": "100014",
+    "name": "sneaker lv classic",
+    "brand": "LV",
+    "category": "Exclusivos",
+    "size": 42,
+    "quantity": 0,
+    "price": 250000,
+    "photoFiles": [
+      "sneaker lv classic 1.jpeg",
+      "sneaker lv classic 2.jpeg",
+      "sneaker lv classic.jpeg"
+    ],
+    "images": [
+      "100014-nov16-01.jpg",
+      "100014-nov16-02.jpg",
+      "100014-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100019",
+    "name": "adiddas hyperboost negro y gris",
+    "brand": "Adidas",
+    "category": "Adidas",
+    "size": 44,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "adiddas hyperboost negro y gris 1.jpeg",
+      "adiddas hyperboost negro y gris 2.jpeg",
+      "adiddas hyperboost negro y gris.jpeg"
+    ],
+    "images": [
+      "100019-nov16-01.jpg",
+      "100019-nov16-02.jpg",
+      "100019-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100020",
+    "name": "adiddas hyperboost azul y gris",
+    "brand": "Adidas",
+    "category": "Adidas",
+    "size": 42,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "adiddas hyperboost azul y gris 1.jpeg",
+      "adiddas hyperboost azul y gris 2.jpeg",
+      "adiddas hyperboost azul y gris.jpeg"
+    ],
+    "images": [
+      "100020-nov16-01.jpg",
+      "100020-nov16-02.jpg",
+      "100020-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100021",
+    "name": "adiddas repetitor negro blanco",
+    "brand": "Adidas",
+    "category": "Adidas",
+    "size": 41,
+    "quantity": 1,
+    "price": 190000,
+    "photoFiles": [
+      "adiddas repetitor negro blanco 1.jpeg",
+      "adiddas repetitor negro blanco 2.jpeg",
+      "adiddas repetitor negro blanco.jpeg"
+    ],
+    "images": [
+      "100021-nov16-01.jpg",
+      "100021-nov16-02.jpg",
+      "100021-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100022",
+    "name": "adiddas hyperboost café",
+    "brand": "Adidas",
+    "category": "Adidas",
+    "size": 43.5,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "adiddas hyperboost café 1.jpeg",
+      "adiddas hyperboost café 2.jpeg",
+      "adiddas hyperboost café.jpeg"
+    ],
+    "images": [
+      "100022-nov16-01.jpg",
+      "100022-nov16-02.jpg",
+      "100022-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100023",
+    "name": "skechers ins verde blanco",
+    "brand": "Skechers",
+    "category": "Skechers",
+    "size": 39,
+    "quantity": 1,
+    "price": 200000,
+    "photoFiles": [
+      "skechers ins verde blanco 1.jpeg",
+      "skechers ins verde blanco 2.jpeg",
+      "skechers ins verde blanco.jpeg"
+    ],
+    "images": [
+      "100023-nov16-01.jpg",
+      "100023-nov16-02.jpg",
+      "100023-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100024",
+    "name": "nike SB negros y gris",
+    "brand": "Nike",
+    "category": "Nike",
+    "size": 41,
+    "quantity": 1,
+    "price": 170000,
+    "photoFiles": [
+      "nike SB negros y gris 1.jpeg",
+      "nike SB negros y gris 2.jpeg",
+      "nike SB negros y gris.jpeg"
+    ],
+    "images": [
+      "100024-nov16-01.jpg",
+      "100024-nov16-02.jpg",
+      "100024-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100025",
+    "name": "nike air max blanco y negro",
+    "brand": "Nike",
+    "category": "Nike",
+    "size": 40,
+    "quantity": 1,
+    "price": 180000,
+    "photoFiles": [
+      "nike air max blanco y negro 1.jpeg",
+      "nike air max blanco y negro 2.jpeg",
+      "nike air max blanco y negro.jpeg"
+    ],
+    "images": [
+      "100025-nov16-01.jpg",
+      "100025-nov16-02.jpg",
+      "100025-nov16-03.jpg"
+    ]
+  },
+  {
+    "sku": "100026",
+    "name": "new balance crema negro",
+    "brand": "New Balance",
+    "category": "New Balance",
+    "size": 38,
+    "quantity": 0,
+    "price": 200000,
+    "photoFiles": [
+      "new balance crema negro 1.jpeg",
+      "new balance crema negro 2.jpeg",
+      "new balance crema negro.jpeg"
+    ],
+    "images": [
+      "100026-nov16-01.jpg",
+      "100026-nov16-02.jpg",
+      "100026-nov16-03.jpg"
+    ]
+  }
+]
