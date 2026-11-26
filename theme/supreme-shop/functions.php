@@ -109,11 +109,11 @@ function supreme_template($file, $category = null) {
                 $shortcuts = '';
                 foreach (array('asics' => 'Asics', 'skechers' => 'Skechers', 'exclusivos' => 'Exclusivos') as $slug => $label) {
                     $products = wc_get_products(array('status' => 'publish', 'category' => array($slug), 'limit' => 1));
-                    if ($products) { $shortcuts .= '<a class="quickbrand" href="' . esc_url(supreme_category_url($slug)) . '">' . $products[0]->get_image('thumbnail', array('alt' => '', 'loading' => 'lazy')) . '<span>' . esc_html($label) . '</span><span aria-hidden="true">↗</span></a>'; }
+                    if ($products) { $shortcuts .= '<a class="quickbrand" href="' . esc_url(supreme_category_url($slug)) . '"><span>' . esc_html($label) . '</span></a>'; }
                 }
                 return $match[1] . $match[2] . $shortcuts . $match[3];
             }, $html, 1);
-            $html = str_replace('</head>', '<style>.quickbrands-grid{grid-template-columns:repeat(4,minmax(0,1fr))}</style></head>', $html);
+            $html = str_replace('</head>', '<style>.quickbrands-grid{grid-template-columns:repeat(4,minmax(0,1fr))}.quickbrand{justify-content:center}.quickbrand img,.quickbrand span[aria-hidden]{display:none}.quickbrand span:last-child{margin-left:0}</style></head>', $html);
         }
     }
     if ($home_novelties) {
